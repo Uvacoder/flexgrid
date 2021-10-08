@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://app.netlify.com/sites/flexgrid-build/deploys"><img src="https://img.shields.io/netlify/f2557415-f8a5-4ba8-a315-75b661a90178?label=build&logo=netlify&style=flat-square"></a> <a href="https://travis-ci.org/moso/flexgrid"><img src="https://img.shields.io/travis/moso/flexgrid/master?logo=travis&style=flat-square"></a> <a href="https://circleci.com/gh/moso/flexgrid"><img src="https://img.shields.io/circleci/build/github/moso/flexgrid/master?logo=circleci&style=flat-square"/></a> <a href="https://github.com/moso/flexgrid/releases/latest"><img src="https://img.shields.io/github/v/release/moso/flexgrid?logo=github&style=flat-square"></a> <a href="https://npmjs.com/package/flexgrid.io"><img src="https://img.shields.io/npm/v/flexgrid.io?logo=npm&style=flat-square"></a> <a href="https://npmjs.com/package/flexgrid.io"><img src="https://img.shields.io/npm/dt/flexgrid.io?logo=npm&style=flat-square"></a> <a href="https://npmjs.com/package/flexgrid.io"><img src="https://img.shields.io/npm/dm/flexgrid.io?logo=npm&style=flat-square"></a></p></p>
 
----
+-----
 
 ##### No more floats. Containers and columns made easy.
 
